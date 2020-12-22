@@ -1,4 +1,7 @@
 # Team_Profile_Generator
+# Github_Link
+
+https://github.com/priteshpatel823/Team_Profile_Generator
 
 # Description
 
@@ -25,12 +28,12 @@ This program was build using class syntax and constructor functions. The functio
 
 # Technology
 
-HTML
-Bootstrap CSS
-NodeJS
-ES6
-inquirer
-path
+* HTML
+* Bootstrap CSS
+* NodeJS
+* ES6
+* inquirer
+* path
 
 # License
 
